@@ -9,7 +9,7 @@ The Model Context Protocol (MCP) is a structured format for providing AI assista
 - Write SQL queries faster with proper context
 - Debug errors more efficiently
 - Optimize performance with tailored recommendations
-- Build effective visualizations and dashboard
+- Build effective visualizations and dashboards
 
 ## Repository Contents
 
